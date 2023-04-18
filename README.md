@@ -99,6 +99,6 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 # AUTHORS
 
-* **Akinkuotu Bright [Github] (https://github.com/brightakin) || [LinkedIn] (linkedin.com/in/brightakinkuotu)
+* **Akinkuotu Bright [Github] (https://github.com/brightakin) || [LinkedIn] (https://www.linkedin.com/in/brightakinkuotu/)
 
 * **Sintim Lloyd [Github] (https://github.com/lloyd72) 
